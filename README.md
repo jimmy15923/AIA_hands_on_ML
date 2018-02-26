@@ -15,6 +15,3 @@ jupyter notebook
 程式： TBA (請使用 Git clone 或是按右上角的綠色按鈕 (Clone or download → Download ZIP)，下載成 ZIP 檔後並解壓縮)
 
 投影片： TBA
-
-+ 由於作業系統環境因人而異，若有任何安裝上的問題，請不吝來信詢問: jim@aiacademy.tw。謝謝大家！
-
