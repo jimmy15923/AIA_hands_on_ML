@@ -1,5 +1,5 @@
 # 台灣人工智慧學校-手把手機器學習與資料分析
-## 課前準備: 課堂上會提供 Server 讓學員運行，但學員也可以在自己的本機上安裝 Python，建立安裝 Anaconda，請參考[此網址](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC%E4%B8%80%E8%AC%9B-python%E6%87%B6%E4%BA%BA%E5%8C%85-anaconda-%E4%BB%8B%E7%B4%B9-%E5%AE%89%E8%A3%9D-f8199fd4be8c) 完成以下安裝步驟:
+## 課前準備: 課堂上會提供 Server 讓學員運行，但學員也可以在自己的本機上安裝 Python，建議安裝 Anaconda，請參考[此網址](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC%E4%B8%80%E8%AC%9B-python%E6%87%B6%E4%BA%BA%E5%8C%85-anaconda-%E4%BB%8B%E7%B4%B9-%E5%AE%89%E8%A3%9D-f8199fd4be8c) 完成安裝步驟
 
 
 1. [Anaconda 下載網址](https://www.anaconda.com/download/)，建議下載 3.6 版本
