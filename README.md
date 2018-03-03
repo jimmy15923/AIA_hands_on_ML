@@ -12,6 +12,6 @@ jupyter notebook
 
 ## 課前準備: 下載程式、投影片及資料
 
-程式： TBA (請使用 Git clone 或是按右上角的綠色按鈕 (Clone or download → Download ZIP)，下載成 ZIP 檔後並解壓縮)
+程式： 請使用 Git clone 或是按右上角的綠色按鈕 (Clone or download → Download ZIP)，下載成 ZIP 檔後並解壓縮
 
-投影片： TBA
+投影片： https://docs.google.com/presentation/d/13HOCmYn44Uw2TX48wucvX9gpYZjlSdC9JomxAJtAl1E/edit#slide=id.g3449a38d03_284_7
